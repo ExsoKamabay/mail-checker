@@ -10,8 +10,8 @@ or
 
 - $ git clone https://github.com/ExsoKamabay/mail-checker.git && cd 'mail-checker' && pip3 install -r requirements.txt && python3 mail_checker.py
 
-Valid emails return green results, invalid results return orange results
-input = <Mail> <Mode> <Arg>
+Valid emails return green results, invalid results return orange results<br>
+input = Mail, Mode, Arg 
 - Mode : check,random,file
 - M check : lexyong@gmail.com check -> just check whether it is valid or invalid.
 - M random: *yong66@gmail.com random xle -> Check and repeat ten times using a random string.
